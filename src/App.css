@@ -1,0 +1,38 @@
+html, body{
+  direction: rtl;
+}
+
+.new-brief-wrapper{
+  width: 100vw;
+  color: white;
+  background: #232323;
+}
+
+.new-brief-wrapper input{
+  padding: 5px;
+  margin: 5px;
+}
+
+.new-brief-wrapper label{
+  margin-right: 5px;
+}
+
+.route-ul ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.route-ul li{
+  display: inline-block;
+  margin: 20px;
+}
+
+.route-ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+.route-ul li a:hover, .route-ul li a:active{
+  color: orange;
+}

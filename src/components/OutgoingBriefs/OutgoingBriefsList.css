@@ -1,0 +1,44 @@
+.OutgoingBriefsList{
+    /* width: 200px;
+    height: 100px; */
+    /* background: green; */
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid lightgrey;
+}
+
+.newBrief span{
+    background: #D8AE47;
+}
+
+.activeBrief span{
+    background: #19B5FE;
+}
+
+.closedBrief span{
+    background: #26C281;
+}
+
+/* .newBrief:hover{
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+        0 24px 46px #92B558; 
+}
+
+.activeBrief:hover{
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+        0 24px 46px #D8AE47; 
+}
+
+.closedBrief:hover{
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+        0 24px 46px #B93A32;
+} */
+
+.OutgoingBriefsList span{
+    padding: 10px;
+    margin: 10px;
+}
